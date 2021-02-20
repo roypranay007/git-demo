@@ -6,3 +6,6 @@ This is the first file in this repo.
 
 
 Sample new text
+
+
+This is for 3rd Commit
